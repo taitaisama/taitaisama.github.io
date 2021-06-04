@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/taitaisama/taitaisama.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+## Java Projects
+  Here is a list of some (not all) java projects I've made, which includes some fun games along with a little bit of explaination about how they work
+  
+  ### Gravity Game
+  This is a simple 2-D game to simulate newtonian gravity
+  
+  Github link: https://github.com/taitaisama/Gravity
+  
+  Picture Galary:
+  ![Image of Yaktocat](https://taitaisama.github.com/images/solarsystem.png)
+  
 
 - Bulleted
 - List
