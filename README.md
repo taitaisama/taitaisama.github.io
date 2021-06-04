@@ -9,7 +9,8 @@
   Github link: https://github.com/taitaisama/Gravity
   
   Picture Galary:
-  ![Image of Yaktocat](https://taitaisama.github.com/images/solarsystem.png)
+  ![solar system](https://github.com/taitaisama/taitaisama.github.io/blob/main/inages/solarsystem.png?raw=true)
+
   
 
 - Bulleted
