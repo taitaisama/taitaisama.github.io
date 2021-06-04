@@ -9,7 +9,7 @@
   Github link: https://github.com/taitaisama/Gravity
   
   Picture Galary:
-  ![solar system](https://github.com/taitaisama/taitaisama.github.io/blob/main/inages/solarsystem.png?raw=true)
+  ![solar system](https://github.com/taitaisama/taitaisama.github.io/blob/main/images/solarsystem.png?raw=true)
 
   
 
