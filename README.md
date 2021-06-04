@@ -8,28 +8,35 @@
   
   Github link: https://github.com/taitaisama/Gravity
   
-  Picture Galary:
-  ![solar system](https://github.com/taitaisama/taitaisama.github.io/blob/main/images/solarsystem.png?raw=true)
+  *Picture Galary:*
+  
+  A simple soral system like orbit: 
+  
+  ![solar system](https://github.com/taitaisama/Gravity/blob/main/images/solarsystem.png?raw=true)
+  
+  Sometimes the orbits create beautiful patterns:
+  
+  ![pattern](https://github.com/taitaisama/Gravity/blob/main/images/pattern.png?raw=true)
+  
+  And other times its just chaos:
+  
+  ![negstar](https://github.com/taitaisama/Gravity/blob/main/images/negstar.png?raw=true)
+  
+  You can create a binary star system:
+ 
+  ![binaty](https://github.com/taitaisama/Gravity/blob/main/images/binary.png?raw=true)
 
+  Or maybe a planet steals another planet and makes it a moon:
+ 
+  ![steal](https://github.com/taitaisama/Gravity/blob/main/images/steal.png?raw=true)
+  
+  Or two planets orbiting each others and moons orbiting about them both:
+  
+  ![chaos](https://github.com/taitaisama/Gravity/blob/main/images/chaos.png?raw=true)
+  
+  The possibilities are Endless!
+  
+  Check the github page to download
+  
   
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taitaisama/taitaisama.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
