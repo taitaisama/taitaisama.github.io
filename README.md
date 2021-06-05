@@ -46,7 +46,11 @@
   
   The games are solved by the computer using minimax algorithm, along with other efficiencies in the bigger boards like pruning of serach tree, dynamically storing previous positions using a custon hash, variable deapth of search and a custom cost function that tells us approximately how much each player is winning in a situation. The 7x7 program actually functions similarly in basic concepts to a chess engine, altho simpler. To know more about how eacch of these algorithms works you can read the documentation availible on the repository.
   
-  Github link: https://github.com/taitaisama/Gravity
+  Github link: https://github.com/taitaisama/TicTacToe
+  
+  Images:
+  
+   1[tictactoe](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac.png?raw=true)
   
   
 
