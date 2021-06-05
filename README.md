@@ -3,7 +3,7 @@
 ## Java Projects
   Here is a list of some (not all) java projects I've made, which includes some fun games along with a little bit of explaination about how they work
   
-  ## Gravity Game
+  <font size="5"> Gravity Game </font>
   
   This is a simple 2-D game to simulate newtonian gravity, it uses the Java.awt and Java,swing libraries to create an app.
   
@@ -39,7 +39,7 @@
   
   Check the github page to download
   
-  ## Tic-Tac-Toe 
+  <font size="5"> Tic-Tac-Toe </font>
   
   This is a Tic-Tac-Toe game on 3x3, 4x4, 5x5 and 7x7 boards playable on the terminal itself.
   The computer plays against the human and if you set the difficulty high then it will never lose!
