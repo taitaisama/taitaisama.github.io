@@ -50,7 +50,7 @@
   
   Images:
   
-   ![tictactoe](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac.png?raw=true)
+   ![tictactoe](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac.png?raw=true) ![tictactoe4](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac4.png?raw=true)
   
   
 
