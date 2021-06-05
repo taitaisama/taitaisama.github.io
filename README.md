@@ -2,58 +2,58 @@
 
 ## Java Projects
   Here is a list of some (not all) java projects I've made, which includes some fun games along with a little bit of explaination about how they work
-  
-    1. Gravity Game 
-  
-    This is a simple 2-D game to simulate newtonian gravity, it uses the Java.awt and Java,swing libraries to create an app.
 
-    Github link: https://github.com/taitaisama/Gravity
+  1. Gravity Game 
 
-    *Picture Galary:* (sorry for low resolution)
+  This is a simple 2-D game to simulate newtonian gravity, it uses the Java.awt and Java,swing libraries to create an app.
 
-    A simple soral system like orbit: 
+  Github link: https://github.com/taitaisama/Gravity
 
-    ![solar system](https://github.com/taitaisama/Gravity/blob/main/images/solarsystem.png?raw=true)
+  *Picture Galary:* (sorry for low resolution)
 
-    Sometimes the orbits create beautiful patterns:
+  A simple soral system like orbit: 
 
-    ![pattern](https://github.com/taitaisama/Gravity/blob/main/images/pattern.png?raw=true)
+  ![solar system](https://github.com/taitaisama/Gravity/blob/main/images/solarsystem.png?raw=true)
 
-    And other times its just chaos:
+  Sometimes the orbits create beautiful patterns:
 
-    ![negstar](https://github.com/taitaisama/Gravity/blob/main/images/negstar.png?raw=true)
+  ![pattern](https://github.com/taitaisama/Gravity/blob/main/images/pattern.png?raw=true)
 
-    You can create a binary star system:
+  And other times its just chaos:
 
-    ![binaty](https://github.com/taitaisama/Gravity/blob/main/images/binary.png?raw=true)
+  ![negstar](https://github.com/taitaisama/Gravity/blob/main/images/negstar.png?raw=true)
 
-    Or maybe a planet steals another planet and makes it a moon:
+  You can create a binary star system:
 
-    ![steal](https://github.com/taitaisama/Gravity/blob/main/images/steal.png?raw=true)
+  ![binaty](https://github.com/taitaisama/Gravity/blob/main/images/binary.png?raw=true)
 
-    Or two planets orbiting each others and moons orbiting about them both:
+  Or maybe a planet steals another planet and makes it a moon:
 
-    ![chaos](https://github.com/taitaisama/Gravity/blob/main/images/chaos.png?raw=true)
+  ![steal](https://github.com/taitaisama/Gravity/blob/main/images/steal.png?raw=true)
 
-    The possibilities are Endless!
+  Or two planets orbiting each others and moons orbiting about them both:
 
-    Check the github page to download
+  ![chaos](https://github.com/taitaisama/Gravity/blob/main/images/chaos.png?raw=true)
 
-    2. Tic-Tac-Toe 
+  The possibilities are Endless!
 
-    This is a Tic-Tac-Toe game on 3x3, 4x4, 5x5 and 7x7 boards playable on the terminal itself.
-    The computer plays against the human and if you set the difficulty high then it will never lose!
+  Check the github page to download
 
-    The games are solved by the computer using minimax algorithm, along with other efficiencies in the bigger boards like pruning of serach tree, dynamically storing previous positions using a custon hash, variable deapth of search and a custom cost function that tells us approximately how much each player is winning in a situation. The 7x7 program actually functions similarly in basic concepts to a chess engine, altho simpler. To know more about how eacch of these algorithms works you can read the documentation availible on the repository.
+  2. Tic-Tac-Toe 
 
-    Github link: https://github.com/taitaisama/TicTacToe
+  This is a Tic-Tac-Toe game on 3x3, 4x4, 5x5 and 7x7 boards playable on the terminal itself.
+  The computer plays against the human and if you set the difficulty high then it will never lose!
 
-    Images:
+  The games are solved by the computer using minimax algorithm, along with other efficiencies in the bigger boards like pruning of serach tree, dynamically storing previous positions using a custon hash, variable deapth of search and a custom cost function that tells us approximately how much each player is winning in a situation. The 7x7 program actually functions similarly in basic concepts to a chess engine, altho simpler. To know more about how eacch of these algorithms works you can read the documentation availible on the repository.
 
-     ![tictactoe4](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac4.png?raw=true) ![tictactoe5](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac5.png?raw=true) 
+  Github link: https://github.com/taitaisama/TicTacToe
 
-     ![tictactoe6](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac6.png?raw=true) ![tictactoe](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac.png?raw=true) 
+  Images:
 
-    The 7x7 TicTacToe is the best 7x7 tictactoe that I've been able to find, online ones kinda arent that good and lose pretty easily
+   ![tictactoe4](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac4.png?raw=true) ![tictactoe5](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac5.png?raw=true) 
+
+   ![tictactoe6](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac6.png?raw=true) ![tictactoe](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac.png?raw=true) 
+
+  The 7x7 TicTacToe is the best 7x7 tictactoe that I've been able to find, online ones kinda arent that good and lose pretty easily
 
 
