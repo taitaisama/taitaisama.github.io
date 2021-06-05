@@ -51,6 +51,7 @@
   Images:
   
    ![tictactoe4](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac4.png?raw=true) ![tictactoe5](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac5.png?raw=true) 
+   
    ![tictactoe6](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac6.png?raw=true) ![tictactoe](https://github.com/taitaisama/TicTacToe/blob/main/images/TicTac.png?raw=true) 
   
   The 7x7 TicTacToe is the best 7x7 tictactoe that I've been able to find, online ones kinda arent that good and lose pretty easily
