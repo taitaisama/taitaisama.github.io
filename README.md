@@ -64,3 +64,11 @@
   
   ![sudoku1](https://github.com/taitaisama/Sudoku/blob/main/images/Sudoku2.png?raw=true)
   ![sudoku2](https://github.com/taitaisama/Sudoku/blob/main/images/Sudoku1.png?raw=true)
+  
+  **Anime App**
+  
+  This is an android plus ios app made using flutter in Dart programming language. It can be used to search on the website MyAnimeList for anime, manga and characters using API calls.
+  
+  Github link: https://github.com/taitaisama/AnimeApp
+  
+  ![image](https://github.com/taitaisama/AnimeApp/blob/main/images/Screenshot%20from%202021-06-06%2023-59-55.png?raw = true)
