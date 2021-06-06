@@ -71,4 +71,4 @@
   
   Github link: https://github.com/taitaisama/AnimeApp
   
-  ![image](https://github.com/taitaisama/AnimeApp/blob/main/images/Screenshot%20from%202021-06-06%2023-59-55.png?raw = true)
+  ![image](https://github.com/taitaisama/AnimeApp/blob/main/images/Screenshot%20from%202021-06-06%2023-59-55.png?raw=true)
