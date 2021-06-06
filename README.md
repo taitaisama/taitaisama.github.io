@@ -56,4 +56,11 @@
 
   The 7x7 TicTacToe is the best 7x7 tictactoe that I've been able to find, online ones kinda arent that good and lose pretty easily
 
-
+  **Sudoku**
+  
+  This is a terminal based sudoku puzzle solver and generator which works on the backtracking algorithm. Put simply, backtracking is a general algorithm to generate all solutions to a problem in which you one by one iterate over all of the variables and "backtrack" if you dont satisfy a contraint.
+  
+  Github link: https://github.com/taitaisama/Sudoku
+  
+  ![sudoku1](https://github.com/taitaisama/Sudoku/blob/main/images/Sudoku2.png?raw=true)
+  ![sudoku2](https://github.com/taitaisama/Sudoku/blob/main/images/Sudoku1.png?raw=true)
